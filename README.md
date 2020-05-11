@@ -1,1 +1,2 @@
-jjjj
+This is the website for tracking CSWN member points. 
+The website is hosted at https://5eb9e0fec6dc4ab6105b0bf3--hopeful-chandrasekhar-f4ea39.netlify.app/ if you want to try it out.
